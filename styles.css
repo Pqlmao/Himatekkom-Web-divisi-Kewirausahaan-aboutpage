@@ -379,7 +379,6 @@ body {
 }
 
 .logo {
-  color: #5d5a88;
   font-size: 18px;
   font-family: Poppins;
   font-weight: 400;
@@ -414,7 +413,7 @@ body {
   height: 48px;
   position: absolute;
   border-radius: 9999px; /* Circular shape */
-  border: 1px rgba(30, 30, 30, 0.5) solid;
+  border: 1px #3c8574 solid;
   display: flex;
   justify-content: center; /* Center content horizontally */
   align-items: center; /* Center content vertically */
@@ -446,7 +445,7 @@ body {
 }
 
 .footer-title {
-  color: #5d5a88;
+  color: #3c8574;
   font-size: 20px;
   font-family: DM Sans;
   font-weight: 700;
